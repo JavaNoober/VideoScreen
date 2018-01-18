@@ -97,4 +97,4 @@
   很简单，这样就完成了gif所展示的内容。   <br />
   **但是也有明显不足之处**：seekBar的progress范围是0 - 100也就是视频获取截图的**最小时间单位是视频总时间长度 / 100**，这样的单位是满足不了长视频的截图要求的,这里还需要优化,可以通过一个自定义view来实现。
   
-Demo地址：[https://github.com/JavaNoober/VideoScreen]()
+Demo地址：[https://github.com/JavaNoober/VideoScreen](https://github.com/JavaNoober/VideoScreen)
